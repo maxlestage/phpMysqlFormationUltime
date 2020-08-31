@@ -26,4 +26,4 @@ function Calc($a, $b, $c){
 }
 
 
-Calc(2, 24, 70); 
+Calc(2, 24, 4); 
